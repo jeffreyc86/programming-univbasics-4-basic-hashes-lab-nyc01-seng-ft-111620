@@ -17,5 +17,8 @@ end
 
 
 def id_hash_generator(number)
-  # return a hash with a key :id assigned to the provided number
+  newer_hash = {
+    :id => number
+  }
+  newer_hash [:id]
 end
