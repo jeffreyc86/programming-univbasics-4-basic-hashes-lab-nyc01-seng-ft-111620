@@ -18,5 +18,4 @@ def id_hash_generator(number)
   {
     :id => number
   }
-newer_hash [:id]
 end
