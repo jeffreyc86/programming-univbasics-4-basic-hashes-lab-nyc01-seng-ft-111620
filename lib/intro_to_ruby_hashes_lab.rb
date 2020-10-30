@@ -20,5 +20,4 @@ def id_hash_generator(number)
   newer_hash = {
     :id => number
   }
-  newer_hash [:id]
 end
